@@ -1,0 +1,8 @@
+streamlit
+torch
+torchaudio
+librosa
+soundfile
+pydub
+streamlit-webrtc
+av
